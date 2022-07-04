@@ -7,11 +7,12 @@ This is the **2nd Task** of the first week which is given by **Patika.Dev TÖDEB
 
 Abstract Class Definitions and Sample Project via Imaginary TODEBCARD
 
-```seq
-Program.cs->TODEBCARD.cs 
-TODEBCARD.cs-->CreditCard.cs
-TODEBCARD.cs-->DebitCard.cs
-TODEBCARD.cs-->DigitalCard.cs
+```mermaid
+graph TD;
+    Program.cs-->TODEBCARD.cs;
+    TODEBCARD.cs-->CreditCard.cs;
+    TODEBCARD.cs-->DebitCard.cs;
+    TODEBCARD.cs-->DigitalCard.cs;
 ```
 
 
