@@ -5,7 +5,9 @@
 
 This is the **2nd Task** of the first week which is given by **Patika.Dev TÖDEB Bootcamp**
 
-Abstract Class Definitions and Sample Project via Imaginary TODEBCARD
+**Abstract Class** Definitions and Sample Project via Imaginary ***TODEBCARD***
+
+***SAMPLE DIAGRAM OF STRUCTURE***
 
 ```mermaid
 graph TD;
