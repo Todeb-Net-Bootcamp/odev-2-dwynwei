@@ -1,0 +1,16 @@
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\bin\Debug\Patika.Dev Abstract Class Hw.exe.config
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\bin\Debug\Patika.Dev Abstract Class Hw.exe
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\bin\Debug\Patika.Dev Abstract Class Hw.pdb
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.csproj.AssemblyReference.cache
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.exe
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class Hw\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.pdb
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.csproj.AssemblyReference.cache
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.exe
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\obj\Debug\Patika.Dev Abstract Class Hw.pdb
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\bin\Debug\Patika.Dev Abstract Class Hw.exe.config
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\bin\Debug\Patika.Dev Abstract Class Hw.exe
+C:\Users\cagat\source\repos\Patika.Dev Abstract Class\Patika.Dev Abstract Class Hw\bin\Debug\Patika.Dev Abstract Class Hw.pdb
