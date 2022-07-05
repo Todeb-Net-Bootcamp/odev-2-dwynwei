@@ -11,10 +11,12 @@ This is the **2nd Task** of the first week which is given by **Patika.Dev TÖDEB
 
 ```mermaid
 graph TD;
+
     Program.cs-->TODEBCARD.cs;
     TODEBCARD.cs-->CreditCard.cs;
     TODEBCARD.cs-->DebitCard.cs;
     TODEBCARD.cs-->DigitalCard.cs;
+    
 ```
 
 
